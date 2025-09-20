@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Offbeat Retreats</title>
+  <!-- Add Bootstrap CSS CDN -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container py-5">
+    <header class="mb-5 text-center bg-light rounded-3 p-4 shadow-sm">
+      <h1 class="display-5 fw-bold mb-3">Welcome to Offbeat Retreats!</h1>
+      <p class="lead mb-4">Discover vacation rentals that are anything but ordinary.</p>
+      <a href="#" class="btn btn-primary btn-lg">Explore Now</a>
+    </header>
+    <div class="row g-5">
+      <div class="col-lg-4 col-md-6 col-12 h-100 d-flex">
+        <div class="card h-100 flex-fill">
+          <img src="img/ufo-bungalow.png" class="card-img-top" alt="The UFO Bungalow">
+          <div class="card-body d-flex flex-column">
+            <h2 class="card-title">The UFO Bungalow</h2>
+            <p class="card-text flex-grow-1">Experience an out-of-this-world stay in our UFO-themed bungalow. Enjoy cosmic views and "alien" hospitality—this stay is truly out of this world!</p>
+            <a href="#" class="btn btn-outline-primary mt-auto">Book Now</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6 col-12 h-100 d-flex">
+        <div class="card h-100 flex-fill">
+          <img src="img/haunted-loft.png" class="card-img-top" alt="Haunted Loft">
+          <div class="card-body d-flex flex-column">
+            <h2 class="card-title">Haunted Loft</h2>
+            <p class="card-text flex-grow-1">Live with friendly ghosts in our elegantly eerie loft. Paranormal activity is included at no extra charge!</p>
+            <a href="#" class="btn btn-outline-primary mt-auto">Book Now</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6 col-12 h-100 d-flex">
+        <div class="card h-100 flex-fill">
+          <img src="img/meme-mansion.png" class="card-img-top" alt="The Meme Mansion">
+          <div class="card-body d-flex flex-column">
+            <h2 class="card-title">The Meme Mansion</h2>
+            <p class="card-text flex-grow-1">Step into a house where every wall is plastered with iconic memes. Picture "Side Eyeing Chloe" smirking in the living room, and "Chill Guy" artwork exuding laid-back vibes in the hallway.</p>
+            <a href="#" class="btn btn-outline-primary mt-auto">Book Now</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6 col-12 h-100 d-flex">
+        <div class="card h-100 flex-fill">
+          <img src="img/upside-down-hacienda.png" class="card-img-top" alt="The Upside-Down Hacienda">
+          <div class="card-body d-flex flex-column">
+            <h2 class="card-title">The Upside-Down Hacienda</h2>
+            <p class="card-text flex-grow-1">Challenge gravity in a house flipped on its roof—furniture, decor, and even your morning coffee cup are all upside down. Prepare for a topsy-turvy stay!</p>
+            <a href="#" class="btn btn-outline-primary mt-auto">Book Now</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6 col-12 h-100 d-flex">
+        <div class="card h-100 flex-fill">
+          <img src="img/marshmallow-mansion.png" class="card-img-top" alt="The Marshmallow Mansion">
+          <div class="card-body d-flex flex-column">
+            <h2 class="card-title">The Marshmallow Mansion</h2>
+            <p class="card-text flex-grow-1">Float in fluffy luxury within walls of giant, pillowy marshmallows. Complimentary hot chocolate served 24/7 to keep the sugar rush going!</p>
+            <a href="#" class="btn btn-outline-primary mt-auto">Book Now</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6 col-12 h-100 d-flex">
+        <div class="card h-100 flex-fill">
+          <img src="img/unicorn-lava-lounge.png" class="card-img-top" alt="The Unicorn Lava Lounge">
+          <div class="card-body d-flex flex-column">
+            <h2 class="card-title">The Unicorn Lava Lounge</h2>
+            <p class="card-text flex-grow-1">Bask in the warm glow of rainbow lava as unicorns trot by with your midnight snack. Glitter geysers activate on the hour—towels not included!</p>
+            <a href="#" class="btn btn-outline-primary mt-auto">Book Now</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer class="mt-5 py-4 text-center bg-light rounded-3 shadow-sm text-muted">
+      &copy; 2025 Offbeat Retreats. All whimsical rights reserved.
+    </footer>
+  </div>
+</body>
+</html>
